@@ -1,3 +1,7 @@
 fourth file
 
+<<<<<<< HEAD
 Changes made in the branch
+=======
+This file was modified in the feature branch
+>>>>>>> feature
